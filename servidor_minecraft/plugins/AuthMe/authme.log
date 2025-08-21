@@ -1,0 +1,38 @@
+[08-21 14:57:02]: [INFO] Created column 'regdate' and set the current timestamp, 1755788222907, to all 0 rows
+[08-21 14:57:02]: [INFO] SQLite Setup finished
+[08-21 14:57:03]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-21 14:57:03]: [INFO] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[08-21 14:57:03]: [INFO] AuthMeReReloaded is running on Folia
+[08-21 14:57:03]: [INFO] AuthMeReReloaded is enabled successfully!
+[08-21 14:57:03]: [INFO] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[08-21 14:57:03]: [INFO] Checking for updates...
+[08-21 14:57:03]: [INFO] You are running the latest version.
+[08-21 14:57:14]: [INFO:FINE] FuKingRey logged in 127.74.183.169
+[08-21 14:57:14]: [INFO:FINE] FuKingRey registered 127.74.183.169
+[08-21 15:06:02]: [INFO:FINE] FuKingRey logged in 127.74.183.169
+[08-21 15:08:38]: [INFO:FINE] FuKingRey logged in 127.74.183.169
+[08-21 15:10:21]: [INFO:FINE] FuKingRey logged in 127.74.183.169
+[08-21 15:10:45]: [INFO:FINE] FuKingRey logged in 127.74.183.169
+[08-21 15:15:56]: [INFO] PlaceholderAPI has been disabled: unhooking placeholders
+[08-21 15:15:56]: [INFO] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[08-21 22:26:16]: [INFO] SQLite Setup finished
+[08-21 22:26:16]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-21 22:26:16]: [INFO] Hooked successfully into PlaceholderAPI
+[08-21 22:26:17]: [INFO] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[08-21 22:26:17]: [INFO] AuthMeReReloaded is running on Folia
+[08-21 22:26:17]: [INFO] AuthMeReReloaded is enabled successfully!
+[08-21 22:26:17]: [INFO] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[08-21 22:26:17]: [INFO] Checking for updates...
+[08-21 22:26:17]: [INFO] You are running the latest version.
