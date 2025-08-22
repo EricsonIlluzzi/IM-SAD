@@ -1,202 +1,148 @@
-[22:25:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[22:25:51] [ServerMain/INFO]: [bootstrap] Loading Folia 1.21.8-2-ver/1.21.8@4ed5b66 (2025-08-10T00:33:31Z) for Minecraft 1.21.8
-[22:25:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[22:25:55] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/BetterTeams-4.13.4.jar'...
-[22:25:55] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/TAB v5.2.5.jar'...
-[22:25:55] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/PlaceholderAPI-2.11.7-DEV-null.jar'...
-[22:25:55] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/DeathExplosio.jar'...
-[22:25:57] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/DeathExplosio.jar' in 1434ms.
-[22:25:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlaceholderAPI-2.11.7-DEV-null.jar' in 2205ms.
-[22:25:58] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BetterTeams-4.13.4.jar' in 2878ms.
-[22:25:58] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TAB v5.2.5.jar' in 3161ms.
-[22:26:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[22:26:00] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
- - PlugManX (3.0.1)
-[22:26:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
- - AuthMe (5.7.0-FORK-b53), BetterTeams (4.13.4), Chunky (1.4.40), DeathExplosion (1.0), GrimAC (2.3.72-28d83206c), PlaceholderAPI (2.11.7-DEV-null), TAB (5.2.5)
-[22:26:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:26:08] [ServerMain/INFO]: Loaded 1407 recipes
-[22:26:08] [ServerMain/INFO]: Loaded 1520 advancements
-[22:26:08] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[22:26:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 482.4ms
-[22:26:09] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:26:09] [Server thread/INFO]: Loading properties
-[22:26:09] [Server thread/INFO]: This server is running Folia version 1.21.8-2-ver/1.21.8@4ed5b66 (2025-08-10T00:33:31Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[22:26:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[22:26:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:26:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:26:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[22:26:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[22:26:10] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 1 tick threads
-[22:26:10] [Server thread/INFO]: Default game type: SURVIVAL
-[22:26:10] [Server thread/INFO]: Generating keypair
-[22:26:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:26:10] [Server thread/INFO]: Using epoll channel type
-[22:26:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:26:10] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[22:26:10] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7-DEV-null
-[22:26:10] [Server thread/INFO]: [DeathExplosion] Loading server plugin DeathExplosion v1.0
-[22:26:10] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[22:26:10] [Server thread/INFO]: [GrimAC] Loading server plugin GrimAC v2.3.72-28d83206c
-[22:26:11] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
-[22:26:12] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
-[22:26:12] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.1
-[22:26:12] [Server thread/INFO]: [BetterTeams] Loading server plugin BetterTeams v4.13.4
-[22:26:12] [Server thread/INFO]: [BetterTeams] [BetterTeams] Checking if the file config.yml is up to date
-[22:26:12] [Server thread/INFO]: [BetterTeams] [BetterTeams] File is up to date
-[22:26:12] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
-[22:26:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:26:12] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.1
-[22:26:13] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[22:26:13] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
-[22:26:13] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
-[22:26:13] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
-[22:26:13] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
-[22:26:13] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[22:26:13] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
-[22:26:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:26:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:26:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:26:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:26:13] [Server thread/INFO]: Preparing level "world"
-[22:26:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:26:14] [Server thread/INFO]: Time elapsed: 4 ms
-[22:26:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:26:14] [Server thread/INFO]: Time elapsed: 0 ms
-[22:26:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:26:14] [Server thread/INFO]: Time elapsed: 0 ms
-[22:26:14] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7-DEV-null
-[22:26:14] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[22:26:14] [Server thread/INFO]: [DeathExplosion] Enabling DeathExplosion v1.0
-[22:26:14] [Server thread/INFO]: [DeathExplosion] DeathExplosion activado en modo anárquico.
-[22:26:14] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[22:26:14] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.72-28d83206c
-[22:26:14] [Server thread/INFO]: [GrimAC] Registering packets...
-[22:26:14] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
-[22:26:15] [Server thread/INFO]: Grim Version: 2.3.72-28d83206c
-[22:26:15] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
-[22:26:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: grim [2.3.72-28d83206c]
-[22:26:15] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
-[22:26:15] [Server thread/INFO]: [TAB] Enabled in 319ms
-[22:26:15] [Server thread/INFO]: [BetterTeams] Enabling BetterTeams v4.13.4
-[22:26:15] [Server thread/INFO]: [BetterTeams] MessageSender declared: com.booksaw.betterTeams.message.AdventureMessageSender@2f3d09de
-[22:26:15] [Server thread/INFO]: [BetterTeams] [BetterTeams] Checking if the file messages.yml is up to date
-[22:26:15] [Folia Async Scheduler Thread #0/INFO]: You are using the latest version of GrimAC
-[22:26:15] [Server thread/INFO]: [BetterTeams] [BetterTeams] File is up to date
-[22:26:15] [Server thread/INFO]: [BetterTeams] Converting storage type, this may take a while
-[22:26:15] [Server thread/INFO]: [BetterTeams] Backing up teams.yml file
-[22:26:15] [Server thread/INFO]: [BetterTeams] Loading team information
-[22:26:15] [Server thread/INFO]: [BetterTeams] Beginning convertion
-[22:26:15] [Server thread/INFO]: [BetterTeams] Convertion complete
-[22:26:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterTeams [4.13.4]
-[22:26:15] [Server thread/WARN]: [BetterTeams] Could not find the message with the reference command.check
-[22:26:15] [Server thread/WARN]: [BetterTeams] Could not find the message with the reference command.debug
-[22:26:15] [Server thread/WARN]: [BetterTeams] Could not find the message with the reference command.teleport
-[22:26:15] [Server thread/WARN]: [BetterTeams] Could not find the message with the reference command.importmessages
-[22:26:15] [Server thread/WARN]: [BetterTeams] Could not find the message with the reference command.money
-[22:26:15] [Server thread/INFO]: [BetterTeams] Display team name config value: prefix
-[22:26:15] [Server thread/INFO]: [BetterTeams] Loading below name. Type: PREFIX
-[22:26:15] [Server thread/ERROR]: Error occurred while enabling BetterTeams v4.13.4 (Is it up to date?)
-java.lang.UnsupportedOperationException: null
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.handle(CraftScheduler.java:517) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:251) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:238) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:189) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:158) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at BetterTeams-4.13.4.jar/com.booksaw.betterTeams.Main.setupListeners(Main.java:389) ~[BetterTeams-4.13.4.jar:?]
-	at BetterTeams-4.13.4.jar/com.booksaw.betterTeams.Main.onEnable(Main.java:170) ~[BetterTeams-4.13.4.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280) ~[folia-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[folia-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:652) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:608) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:785) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:515) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1246) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:353) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+[18:01:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[18:01:03] [ServerMain/INFO]: [bootstrap] Loading Folia 1.21.8-2-ver/1.21.8@4ed5b66 (2025-08-10T00:33:31Z) for Minecraft 1.21.8
+[18:01:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:01:12] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/TNTMadnessPlugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/TNTMadnessPlugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:85) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at net.minecraft.server.Main.main(Main.java:112) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:26:15] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.13.4
-[22:26:15] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
-[22:26:15] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
-[22:26:16] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[22:26:16] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[22:26:16] [Server thread/INFO]: [AuthMe] Hooked successfully into PlaceholderAPI
-[22:26:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: authme [5.7.0-FORK]
-[22:26:17] [Server thread/INFO]: [AuthMe] 
+Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/TNTMadnessPlugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	... 10 more
+[18:01:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[18:01:12] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - PlugManX (3.0.1)
+[18:01:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - AntiChaos (1.0.0), AuthMe (5.7.0-FORK-b53), BetterTeamsFolia (1.0), Chunky (1.4.40), DeathExplosion (1.0), GrimAC (2.3.72-28d83206c), PlaceholderAPI (2.11.7-DEV-null), TAB (5.2.5)
+[18:01:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:01:20] [ServerMain/INFO]: Loaded 1407 recipes
+[18:01:20] [ServerMain/INFO]: Loaded 1520 advancements
+[18:01:20] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:01:20] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 447.2ms
+[18:01:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:01:21] [Server thread/INFO]: Loading properties
+[18:01:21] [Server thread/INFO]: This server is running Folia version 1.21.8-2-ver/1.21.8@4ed5b66 (2025-08-10T00:33:31Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[18:01:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:01:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:01:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:01:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:01:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:01:22] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 1 tick threads
+[18:01:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:01:22] [Server thread/INFO]: Generating keypair
+[18:01:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:01:23] [Server thread/INFO]: Using epoll channel type
+[18:01:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:01:23] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:01:23] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7-DEV-null
+[18:01:23] [Server thread/INFO]: [DeathExplosion] Loading server plugin DeathExplosion v1.0
+[18:01:23] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[18:01:23] [Server thread/INFO]: [AntiChaos] Loading server plugin AntiChaos v1.0.0
+[18:01:23] [Server thread/INFO]: [GrimAC] Loading server plugin GrimAC v2.3.72-28d83206c
+[18:01:23] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
+[18:01:25] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
+[18:01:25] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.1
+[18:01:25] [Server thread/INFO]: [BetterTeamsFolia] Loading server plugin BetterTeamsFolia v1.0
+[18:01:25] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
+[18:01:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:01:25] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.1
+[18:01:25] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[18:01:25] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[18:01:25] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[18:01:25] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[18:01:25] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
+[18:01:25] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[18:01:25] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
+[18:01:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:01:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:01:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:01:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:01:25] [Server thread/INFO]: Preparing level "world"
+[18:01:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:01:26] [Server thread/INFO]: Time elapsed: 2 ms
+[18:01:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:01:26] [Server thread/INFO]: Time elapsed: 0 ms
+[18:01:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:01:26] [Server thread/INFO]: Time elapsed: 0 ms
+[18:01:26] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7-DEV-null
+[18:01:26] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[18:01:26] [Server thread/INFO]: [DeathExplosion] Enabling DeathExplosion v1.0
+[18:01:26] [Server thread/INFO]: [DeathExplosion] DeathExplosion activado en modo anárquico.
+[18:01:26] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[18:01:26] [Server thread/INFO]: [AntiChaos] Enabling AntiChaos v1.0.0
+[18:01:26] [Server thread/INFO]: [AntiChaos] AntiChaos habilitado. Folia: Folia
+[18:01:26] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.72-28d83206c
+[18:01:26] [Server thread/INFO]: [GrimAC] Registering packets...
+[18:01:26] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
+[18:01:27] [Server thread/INFO]: Grim Version: 2.3.72-28d83206c
+[18:01:27] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
+[18:01:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: grim [2.3.72-28d83206c]
+[18:01:27] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
+[18:01:28] [Folia Async Scheduler Thread #0/INFO]: You are using the latest version of GrimAC
+[18:01:28] [Server thread/INFO]: [TAB] Enabled in 569ms
+[18:01:28] [Server thread/INFO]: [BetterTeamsFolia] Enabling BetterTeamsFolia v1.0
+[18:01:28] [Server thread/INFO]: [BetterTeamsFolia] ========================================
+[18:01:28] [Server thread/INFO]: [BetterTeamsFolia] BetterTeamsFolia habilitado correctamente!
+[18:01:28] [Server thread/INFO]: [BetterTeamsFolia] Versión: 1.0
+[18:01:28] [Server thread/INFO]: [BetterTeamsFolia] Autor: [Ericson]
+[18:01:28] [Server thread/INFO]: [BetterTeamsFolia] ========================================
+[18:01:28] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
+[18:01:28] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
+[18:01:29] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[18:01:29] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[18:01:29] [Server thread/INFO]: [AuthMe] Hooked successfully into PlaceholderAPI
+[18:01:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: authme [5.7.0-FORK]
+[18:01:30] [Server thread/INFO]: [AuthMe] 
     ___         __  __    __  ___   
    /   | __  __/ /_/ /_  /  |/  /__ 
   / /| |/ / / / __/ __ \/ /|_/ / _ \
  / ___ / /_/ / /_/ / / / /  / /  __/
 /_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
                                     
-[22:26:17] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Folia
-[22:26:17] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
-[22:26:17] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
-[22:26:17] [Server thread/INFO]: [AuthMe] Checking for updates...
-[22:26:17] [Server thread/INFO]: [spark] The spark plugin has been preferred but was not loaded. The bundled spark profiler will enabled instead.
-[22:26:17] [Server thread/INFO]: [spark] The spark profiler will not be enabled because it is currently disabled in the configuration.
-[22:26:17] [Folia Async Scheduler Thread #0/INFO]: [AuthMe] You are running the latest version.
-[22:26:17] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[22:26:17] [Server thread/INFO]: Done preparing level "world" (4.342s)
-[22:26:17] [Server thread/INFO]: Done (27.315s)! For help, type "help"
-[22:26:17] [Region Scheduler Thread #0/INFO]: 0 placeholder hook(s) registered!
-[22:26:17] [Region Scheduler Thread #0/INFO]: Initialising world 'world' before it can be ticked...
-[22:26:17] [Region Scheduler Thread #0/INFO]: Initialised world 'world'
-[22:26:18] [Region Scheduler Thread #0/INFO]: Initialising world 'world_nether' before it can be ticked...
-[22:26:18] [Region Scheduler Thread #0/INFO]: Initialised world 'world_nether'
-[22:26:18] [Region Scheduler Thread #0/INFO]: Initialising world 'world_the_end' before it can be ticked...
-[22:26:18] [Region Scheduler Thread #0/INFO]: Initialised world 'world_the_end'
-[22:26:30] [Region Scheduler Thread #0/ERROR]: Command exception: /team
-org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:533) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:242) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:238) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:189) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:158) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at BetterTeams-4.13.4.jar/com.booksaw.betterTeams.BooksawCommand.execute(BooksawCommand.java:62) ~[BetterTeams-4.13.4.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:336) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:435) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.threadedregions.RegionizedServer.globalTick(RegionizedServer.java:310) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.threadedregions.RegionizedServer$GlobalTickTickHandle.tickRegion(RegionizedServer.java:161) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:26:30] [Region Scheduler Thread #0/INFO]: An unexpected error occurred trying to execute that command
-[22:26:32] [Region Scheduler Thread #0/ERROR]: Command exception: /team
-org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:533) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:242) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:238) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:189) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:158) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at BetterTeams-4.13.4.jar/com.booksaw.betterTeams.BooksawCommand.execute(BooksawCommand.java:62) ~[BetterTeams-4.13.4.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:336) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:435) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.threadedregions.RegionizedServer.globalTick(RegionizedServer.java:310) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.threadedregions.RegionizedServer$GlobalTickTickHandle.tickRegion(RegionizedServer.java:161) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-2-4ed5b66]
-	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:26:32] [Region Scheduler Thread #0/INFO]: An unexpected error occurred trying to execute that command
+[18:01:30] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Folia
+[18:01:30] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
+[18:01:30] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[18:01:30] [Server thread/INFO]: [AuthMe] Checking for updates...
+[18:01:30] [Server thread/INFO]: [spark] The spark plugin has been preferred but was not loaded. The bundled spark profiler will enabled instead.
+[18:01:30] [Server thread/INFO]: [spark] The spark profiler will not be enabled because it is currently disabled in the configuration.
+[18:01:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[18:01:30] [Server thread/INFO]: Done preparing level "world" (4.952s)
+[18:01:30] [Folia Async Scheduler Thread #0/INFO]: [AuthMe] You are running the latest version.
+[18:01:30] [Server thread/INFO]: Done (28.495s)! For help, type "help"
+[18:01:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[18:01:30] [Region Scheduler Thread #0/INFO]: 0 placeholder hook(s) registered!
+[18:01:30] [Region Scheduler Thread #0/INFO]: Initialising world 'world' before it can be ticked...
+[18:01:30] [Region Scheduler Thread #0/INFO]: Initialised world 'world'
+[18:01:30] [Region Scheduler Thread #0/INFO]: Initialising world 'world_nether' before it can be ticked...
+[18:01:30] [Region Scheduler Thread #0/INFO]: Initialised world 'world_nether'
+[18:01:30] [Region Scheduler Thread #0/INFO]: Initialising world 'world_the_end' before it can be ticked...
+[18:01:30] [Region Scheduler Thread #0/INFO]: Initialised world 'world_the_end'
+[18:01:35] [User Authenticator #0/INFO]: UUID of player FuKingReyX is 32add5ad-aed6-3a12-8ec9-8a619c1d2b1c
+[18:01:35] [Region Scheduler Thread #0/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [AuthMe]
+[18:01:37] [TAB Processing Thread/INFO]: [TAB] [WARN] Player FuKingReyX's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:01:37] [Region Scheduler Thread #0/INFO]: FuKingReyX[/127.74.183.169:43895] logged in with entity id 65 at ([world]-74.2849946922748, 71.0, 17.701666224790046)
+[18:01:37] [Folia Async Scheduler Thread #3/INFO]: [AuthMe] FuKingReyX logged in 127.74.183.169
+[18:01:38] [Netty Epoll Server IO #2/INFO]: [ac.grim.grimac.shaded.com.github.retrooper.packetevents.PacketEventsAPI] Loading block mappings for V_1_21_6/19...
+[18:01:39] [Netty Epoll Server IO #2/INFO]: [ac.grim.grimac.shaded.com.github.retrooper.packetevents.PacketEventsAPI] Finished loading block mappings for V_1_21_6/19 in 554.58309ms
+[18:01:49] [Region Scheduler Thread #0/INFO]: Made FuKingRey no longer a server operator
+[18:01:53] [Region Scheduler Thread #0/INFO]: FuKingReyX lost connection: Disconnected
+[18:05:44] [User Authenticator #1/INFO]: UUID of player Illuzzi is a79b635e-0b34-3fdd-8792-ad24a75a0a2e
+[18:05:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Illuzzi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:05:46] [Region Scheduler Thread #0/INFO]: Illuzzi[/127.74.183.169:51845] logged in with entity id 258 at ([world]-71.5, 68.0, 7.5)
+[18:05:51] [Region Scheduler Thread #0/INFO]: Made Illuzzi a server operator
+[18:06:23] [Region Scheduler Thread #0/INFO]: [AuthMe] Illuzzi registered 127.74.183.169
+[18:06:27] [Region Scheduler Thread #0/INFO]: Illuzzi issued server command: /team ally KratosX
+[18:06:31] [Folia Async Scheduler Thread #0/INFO]: [AuthMe] Illuzzi logged in 127.74.183.169
+[18:06:32] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[18:06:52] [Region Scheduler Thread #0/INFO]: Illuzzi lost connection: Disconnected
+[18:07:54] [User Authenticator #2/INFO]: UUID of player Illuzzi is a79b635e-0b34-3fdd-8792-ad24a75a0a2e
+[18:07:55] [Region Scheduler Thread #0/INFO]: Illuzzi[/127.74.183.169:50799] logged in with entity id 374 at ([world]-77.97324193912743, 69.0, -1.318658271642916)
+[18:07:55] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Illuzzi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:07:55] [Folia Async Scheduler Thread #0/INFO]: [AuthMe] Illuzzi logged in 127.74.183.169
+[18:08:02] [Region Scheduler Thread #0/INFO]: Illuzzi lost connection: Disconnected

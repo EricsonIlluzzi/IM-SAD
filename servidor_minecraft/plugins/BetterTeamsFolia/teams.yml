@@ -1,0 +1,24 @@
+teams:
+  Kratos:
+    home:
+      world: world
+      x: -47.50247044715907
+      y: 69.0
+      z: 198.908614850283
+    color: GOLD
+    leader: c5a3c821-b9af-376d-b2ed-5bdb4fb9bd4b
+    members:
+      '0':
+        uuid: c5a3c821-b9af-376d-b2ed-5bdb4fb9bd4b
+        role: LEADER
+        kills: 0
+        deaths: 0
+  KratosX:
+    color: BLUE
+    leader: 32add5ad-aed6-3a12-8ec9-8a619c1d2b1c
+    members:
+      '0':
+        uuid: 32add5ad-aed6-3a12-8ec9-8a619c1d2b1c
+        role: LEADER
+        kills: 0
+        deaths: 0
