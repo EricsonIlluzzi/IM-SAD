@@ -249,3 +249,16 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [22:38:35] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [22:43:35] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [22:48:35] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[22:52:14] [User Authenticator #0/INFO]: UUID of player makiloka is 39854398-1f3c-345d-b5dc-91f3d6ba5739
+[22:52:14] [Region Scheduler Thread #0/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, Essentials]
+[22:52:16] [Region Scheduler Thread #0/INFO]: makiloka joined the game
+[22:52:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player makiloka's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:52:16] [Region Scheduler Thread #0/INFO]: makiloka[/127.193.101.173:44347] logged in with entity id 26 at ([world]418.7321883516315, 72.49520087700593, 653.03218823083)
+[22:52:17] [Netty Epoll Server IO #2/INFO]: [ac.grim.grimac.shaded.com.github.retrooper.packetevents.PacketEventsAPI] Loading block mappings for V_1_21_6/19...
+[22:52:17] [Netty Epoll Server IO #2/INFO]: [ac.grim.grimac.shaded.com.github.retrooper.packetevents.PacketEventsAPI] Finished loading block mappings for V_1_21_6/19 in 266.036244ms
+[22:52:25] [Region Scheduler Thread #0/INFO]: makiloka issued server command: /login 123
+[22:53:29] [Region Scheduler Thread #0/INFO]: makiloka lost connection: Disconnected
+[22:53:29] [Region Scheduler Thread #0/INFO]: [voicechat] Disconnecting client makiloka
+[22:53:29] [Region Scheduler Thread #0/INFO]: makiloka left the game
+[22:53:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[22:58:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.

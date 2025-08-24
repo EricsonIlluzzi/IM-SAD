@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1756010144255
-  login: 1756009880655
+  logout: 1756076009411
+  login: 1756075936408
 money: '0'
 last-account-name: makiloka
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
   world-name: world
-  x: 418.7321883516315
-  y: 72.79673560066871
-  z: 653.03218823083
-  yaw: 11.017492294311523
-  pitch: -3.0125839710235596
+  x: 485.9946329245406
+  y: 69.0
+  z: 667.1198790856291
+  yaw: -0.5545654296875
+  pitch: 33.53535842895508
