@@ -271,3 +271,15 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [23:28:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [23:33:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [23:38:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[23:43:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[23:44:58] [User Authenticator #1/INFO]: UUID of player Illuzzi is a79b635e-0b34-3fdd-8792-ad24a75a0a2e
+[23:44:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Illuzzi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:44:58] [Region Scheduler Thread #0/INFO]: Illuzzi joined the game
+[23:44:58] [Region Scheduler Thread #0/INFO]: Illuzzi[/127.74.183.169:39211] logged in with entity id 553 at ([world_nether]-1034.7940846819943, 93.61760520620649, 2035.168860538927)
+[23:44:58] [Region Scheduler Thread #0/INFO]: [voicechat] Received secret request of Illuzzi (18)
+[23:44:58] [Region Scheduler Thread #0/INFO]: [voicechat] Sent secret to Illuzzi
+[23:45:05] [Region Scheduler Thread #0/INFO]: Illuzzi issued server command: /login poposito
+[23:45:09] [Region Scheduler Thread #0/INFO]: Illuzzi lost connection: Disconnected
+[23:45:09] [Region Scheduler Thread #0/INFO]: [voicechat] Disconnecting client Illuzzi
+[23:45:09] [Region Scheduler Thread #0/INFO]: Illuzzi left the game
+[23:48:36] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.

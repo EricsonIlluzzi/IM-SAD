@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1756063205215
-  login: 1756062940017
+  logout: 1756079109010
+  login: 1756079098770
 money: '0'
 last-account-name: Illuzzi
 logoutlocation:
   world: f5521a33-0d01-47c8-aee2-f4c6a911b122
   world-name: world_nether
-  x: -1034.7940846819943
-  y: 93.61760520620649
-  z: 2035.168860538927
-  yaw: -5.399897575378418
-  pitch: 38.549983978271484
+  x: -1044.2764067702194
+  y: 74.87233327736476
+  z: 2048.8181523155126
+  yaw: 36.75010299682617
+  pitch: 50.8499870300293
 lastlocation:
   world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
   world-name: world
