@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1756009492751
+  lastteleport: 1756049898045
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1756040936114
-  login: 1756040584291
+  login: 1756049435375
 money: '0'
 last-account-name: Illuzzi
 logoutlocation:
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
   world-name: world
-  x: -187.80635490417495
-  y: 75.58190019676266
-  z: 921.3777224504142
-  yaw: -29.2379150390625
-  pitch: 22.30079460144043
+  x: 386.2659725683065
+  y: 87.66321285904942
+  z: 797.272093051691
+  yaw: -71.9991455078125
+  pitch: 20.425203323364258
