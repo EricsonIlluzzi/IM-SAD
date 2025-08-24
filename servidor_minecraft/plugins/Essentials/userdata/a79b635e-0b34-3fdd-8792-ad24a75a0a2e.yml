@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1756049898045
+  lastteleport: 1756062977851
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1756040936114
-  login: 1756049435375
+  logout: 1756063205215
+  login: 1756062940017
 money: '0'
 last-account-name: Illuzzi
 logoutlocation:
-  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
-  world-name: world
-  x: 429.0068649171148
-  y: 78.46657580490606
-  z: 686.7573277864024
-  yaw: 47.74749755859375
-  pitch: 31.717933654785156
+  world: f5521a33-0d01-47c8-aee2-f4c6a911b122
+  world-name: world_nether
+  x: -1034.7940846819943
+  y: 93.61760520620649
+  z: 2035.168860538927
+  yaw: -5.399897575378418
+  pitch: 38.549983978271484
 lastlocation:
   world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
   world-name: world
-  x: 386.2659725683065
-  y: 87.66321285904942
-  z: 797.272093051691
-  yaw: -71.9991455078125
-  pitch: 20.425203323364258
+  x: 381.1859161483983
+  y: 88.90837364902411
+  z: 834.6592356808243
+  yaw: 166.49998474121094
+  pitch: 24.30000114440918
