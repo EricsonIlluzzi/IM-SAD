@@ -223,3 +223,19 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [21:38:30] [Region Scheduler Thread #0/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.30.0]
 [21:38:30] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
 [21:43:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[21:48:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[21:49:04] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[21:49:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[21:49:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] [JDA] WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode(4004 / The account token sent with your identify payload is incorrect.)
+[21:49:06] [Region Scheduler Thread #0/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.0
+[21:49:07] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[21:49:07] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[21:49:07] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  DiscordSRV was disconnected from Discord because:
+[21:49:07] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  The bot token is invalid
+[21:49:07] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[21:49:07] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[21:49:12] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
+[21:49:12] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 5008ms
+[21:53:35] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[21:58:35] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
