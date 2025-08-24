@@ -91,17 +91,17 @@ scoreboard:
   delay-on-join-milliseconds: 0
   scoreboards:
     scoreboard-1.20.3+:
-      title: "<#E0B11E>✦ MyServer ✦</#FFAA00>"
+      title: "<#E0B11E>✦ NARQUIA ✦</#FFAA00>"
       display-condition: "%player-version-id%>=765;%bedrock%=false"
       lines:
         - "&7%date%"
         - "&d%animation:MyAnimation1%"
-        - "<#00FFFF>───────── &6Online &b─────────</#00FFFF>"
+        - "<#00FFFF>──── &6Online &b────</#00FFFF>"
         - "* &eTotal:&f %online%"
         - "* &eWorld:&f %worldonline%"
         - "* &eStaff:&f %staffonline%"
         - ""
-        - "<#00FFAA>───── &bPersonal Info &b─────</#00FFAA>"
+        - "<#00FFAA>─── &bPersonal Info &b──</#00FFAA>"
         - "* &bRank:&f %group%"
         - "* &bPing:&f %ping% &8ms"
         - "* &bWorld:&f %world%"

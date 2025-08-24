@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.193.101.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756010144255
+  login: 1756009880655
+money: '0'
+last-account-name: makiloka
+lastlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: -185.2417760624934
+  y: 78.0
+  z: 945.7298482919656
+  yaw: -146.1959228515625
+  pitch: 0.569030225276947
+logoutlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 418.7321883516315
+  y: 72.79673560066871
+  z: 653.03218823083
+  yaw: 11.017492294311523
+  pitch: -3.0125839710235596

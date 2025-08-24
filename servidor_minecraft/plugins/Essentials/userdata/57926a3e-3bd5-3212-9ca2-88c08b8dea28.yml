@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.162.135.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756009112008
+  login: 1756007139657
+money: '0'
+last-account-name: rexondeck
+logoutlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 1945.1063361362885
+  y: 63.0
+  z: -1347.2883192412617
+  yaw: -91.64075469970703
+  pitch: 16.459644317626953
+lastlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 454.3788476447034
+  y: 77.0
+  z: 627.3049792611127
+  yaw: 75.42044067382812
+  pitch: 27.894641876220703

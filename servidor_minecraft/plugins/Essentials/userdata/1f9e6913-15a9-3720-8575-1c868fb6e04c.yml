@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.29.41.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1755986384444
+  login: 1755986017869
+money: '0'
+last-account-name: zWhity
+lastlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 481.489782128421
+  y: 72.16610926093821
+  z: 695.9454233405133
+  yaw: -75.20909118652344
+  pitch: 6.5839738845825195
+logoutlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: -449.9334036680818
+  y: 60.03932933289745
+  z: 2.3322240344077385
+  yaw: -99.17172241210938
+  pitch: 13.018268585205078

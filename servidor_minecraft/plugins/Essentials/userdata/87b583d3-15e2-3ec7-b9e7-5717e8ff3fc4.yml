@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.160.223.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756006231856
+  login: 1756005307705
+money: '0'
+last-account-name: xXmechadiddyXx
+lastlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 445.2546979501202
+  y: 72.0
+  z: 639.3230302122232
+  yaw: -13.890352249145508
+  pitch: 3.599999189376831
+logoutlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 429.56201301362324
+  y: 69.0
+  z: 639.0888708275527
+  yaw: 167.9999542236328
+  pitch: 17.249988555908203

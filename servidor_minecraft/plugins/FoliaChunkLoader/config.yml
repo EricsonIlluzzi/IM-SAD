@@ -1,0 +1,16 @@
+# ====== Configuración de FoliaChunkLoader ======
+
+# Radio de precarga alrededor de cada jugador (chunks)
+preload-radius: 5
+
+# Intervalo de actualización de la cola de chunks (ticks, 20 ticks = 1 segundo)
+task-interval: 40
+
+# Máximo de chunks a cargar por tick para no saturar el servidor
+max-chunks-per-tick: 5
+
+# Tiempo en segundos antes de descargar automáticamente un chunk lejano
+chunk-unload-delay: 300
+
+# Modo debug
+debug: false

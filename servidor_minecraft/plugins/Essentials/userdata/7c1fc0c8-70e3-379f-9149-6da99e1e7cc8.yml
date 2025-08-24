@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.109.190.0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1755989264805
+  login: 1755989071808
+money: '0'
+last-account-name: parnal0011
+lastlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 498.30000001192093
+  y: 22.0
+  z: 960.6999999880791
+  yaw: -136.142822265625
+  pitch: -8.700006484985352
+logoutlocation:
+  world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
+  world-name: world
+  x: 478.7587967519671
+  y: 58.5316022654719
+  z: 600.8354402545986
+  yaw: -127.3498306274414
+  pitch: 2.1000030040740967
