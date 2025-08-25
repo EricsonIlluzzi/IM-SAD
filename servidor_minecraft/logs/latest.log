@@ -12493,3 +12493,13 @@ java.lang.NumberFormatException: For input string: "nether"
 [01:30:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [01:35:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [01:40:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:45:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:50:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:51:43] [Region Scheduler Thread #0/INFO]: dylanmolina22 lost connection: Disconnected
+[01:51:43] [Region Scheduler Thread #0/INFO]: [voicechat] Disconnecting client dylanmolina22
+[01:51:43] [Region Scheduler Thread #0/INFO]: dylanmolina22 left the game
+[01:54:06] [User Authenticator #6/INFO]: UUID of player dylanmolina22 is e0d8f933-08b1-308e-a0b3-d054c445e561
+[01:54:07] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dylanmolina22's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:54:07] [Region Scheduler Thread #0/INFO]: dylanmolina22 joined the game
+[01:54:07] [Region Scheduler Thread #0/INFO]: dylanmolina22[/127.81.23.156:36145] logged in with entity id 14863 at ([world]252.5, 81.0, 901.5)
+[01:54:22] [Region Scheduler Thread #0/INFO]: dylanmolina22 issued server command: /login dylanyvictor
