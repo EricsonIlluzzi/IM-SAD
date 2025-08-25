@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1756080016611
-  login: 1756079397963
+  logout: 1756080985956
+  login: 1756081069726
 money: '0'
 last-account-name: dylanmolina22
 logoutlocation:
   world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
   world-name: world
-  x: 403.36093821780963
+  x: 403.30000001192093
   y: 79.0
-  z: 792.2898971346918
-  yaw: 27.4500789642334
-  pitch: 42.60002136230469
+  z: 791.6522659912
+  yaw: -10.199931144714355
+  pitch: 9.450019836425781
 lastlocation:
   world: 3a4f2fe7-264b-4c90-8523-141a15ad556b
   world-name: world
