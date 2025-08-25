@@ -12476,3 +12476,14 @@ java.lang.NumberFormatException: For input string: "nether"
 [00:51:20] [Region Scheduler Thread #0/INFO]: dylanmolina22 issued server command: /volver
 [00:55:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [01:00:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:05:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:07:58] [User Authenticator #5/INFO]: UUID of player IlluzziX is 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
+[01:07:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player IlluzziX's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:07:59] [Region Scheduler Thread #0/INFO]: IlluzziX joined the game
+[01:07:59] [Region Scheduler Thread #0/INFO]: IlluzziX[/127.74.183.169:55277] logged in with entity id 9225 at ([world]435.5, 66.0, 637.5)
+[01:07:59] [Region Scheduler Thread #0/INFO]: [voicechat] Received secret request of IlluzziX (18)
+[01:07:59] [Region Scheduler Thread #0/INFO]: [voicechat] Sent secret to IlluzziX
+[01:08:10] [Region Scheduler Thread #0/INFO]: IlluzziX lost connection: Disconnected
+[01:08:10] [Region Scheduler Thread #0/INFO]: [voicechat] Disconnecting client IlluzziX
+[01:08:10] [Region Scheduler Thread #0/INFO]: IlluzziX left the game
+[01:10:11] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
