@@ -1,2 +1,0 @@
-# Mensaje que se mostrará cuando alguien intente usar /pl, /plugins, /version, /ver o un comando inexistente
-blocked-message: "&c⚠ Ups... ese comando no existe. &7(Tampoco los plugins mágicos que buscas 👀)"

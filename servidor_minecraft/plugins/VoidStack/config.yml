@@ -1,0 +1,26 @@
+# Mapas de teletransición: "sourceWorld" -> "targetWorld"
+world-links:
+  world: world_nether
+  world_nether: world
+  world_the_end: world
+
+# Altura base desde la cual aparecerá en el target world (Y)
+target-height: 300
+
+# Mantener coordenadas X/Z true/false
+preserve-xz: true
+
+# Si true, intentará mantener la velocidad vertical (momentum)
+preserve-momentum: true
+
+# Seguridad: distancia mínima al suelo en target para no asfixiar
+clear-radius: 2
+
+# Cooldown por jugador en ticks para evitar loops (ej: 100 ticks = 5s)
+cooldown-ticks: 100
+
+# Mensajes
+messages:
+  rescued: "&aHas atravesado el vacío y reapareces en otro mundo, cayendo desde el cielo."
+  no-link: "&cNo hay enlace configurado desde este mundo."
+  reloaded: "&aConfiguración recargada."
